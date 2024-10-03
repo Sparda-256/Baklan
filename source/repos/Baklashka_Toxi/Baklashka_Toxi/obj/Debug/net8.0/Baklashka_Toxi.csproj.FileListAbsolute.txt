@@ -1,0 +1,14 @@
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\bin\Debug\net8.0\Baklashka_Toxi.exe
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\bin\Debug\net8.0\Baklashka_Toxi.deps.json
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\bin\Debug\net8.0\Baklashka_Toxi.runtimeconfig.json
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\bin\Debug\net8.0\Baklashka_Toxi.dll
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\bin\Debug\net8.0\Baklashka_Toxi.pdb
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\Baklashka_Toxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\Baklashka_Toxi.AssemblyInfoInputs.cache
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\Baklashka_Toxi.AssemblyInfo.cs
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\Baklashka_Toxi.csproj.CoreCompileInputs.cache
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\Baklashka_Toxi.dll
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\refint\Baklashka_Toxi.dll
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\Baklashka_Toxi.pdb
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\Baklashka_Toxi.genruntimeconfig.cache
+C:\Users\spard\source\repos\Baklashka_Toxi\Baklashka_Toxi\obj\Debug\net8.0\ref\Baklashka_Toxi.dll
